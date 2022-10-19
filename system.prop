@@ -40,3 +40,10 @@ ro.recovery.ui.margin_height=48
 
 # WiFi
 wifi.interface=wlan0
+
+# Spark-OS
+ro.spark.device.name=Poco X3 Series
+ro.spark.group.url=https://t.me/Meto_Kitchen
+ro.spark.maintainer=Metehan Beyaz
+ro.spark.maintainer.username=MetoIsTaken
+
